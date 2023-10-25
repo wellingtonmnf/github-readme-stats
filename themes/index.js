@@ -456,6 +456,20 @@ export const themes = {
     border_color: "e1bc29",
     bg_color: "2b2d40",
   },
+  salesforce: {
+    title_color: "00A1E0",
+    text_color: "00A1E0",
+    icon_color: "00A1E0",
+    border_color: "00A1E0",
+    bg_color: "FFFFFF",
+  },
+  salesforce_dark: {
+    title_color: "FFFFFF",
+    text_color: "FFFFFF",
+    icon_color: "FFFFFF",
+    border_color: "FFFFFF",
+    bg_color: "00A1E0",
+  },
 };
 
 export default themes;
